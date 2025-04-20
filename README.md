@@ -14,6 +14,21 @@ This repository provides organized Jupyter notebooks and simulations for the sub
 ### 🔹 UNIT I: Transport by Molecular Motion
 
 - Vectors and tensors in transport analysis
+- [Understanding Vector and Tensor Notation](https://youtu.be/1xTep8vQOL0)
+- [Kronecker Delta and Permutation Symbols in Mathematics](https://youtu.be/-06ErMIBm8k)
+- [Fundamentals of Vector Operations](https://youtube.com/shorts/rERUM-evRIY)
+- [Vector Addition and Subtraction](https://youtube.com/shorts/P67SBkMvHPE)
+- [Vector Operations: Exploring Dot Product via Component Analysis](https://youtu.be/76o_rPzlD7g)
+- [Dot Product and Cross Product](https://youtu.be/oVpMxmtSMec)
+- [The Equation of Mechanical Energy](https://youtu.be/CTEljstC95Q)
+- [Vector and Tensor Notation](https://youtube.com/shorts/M917VqakWUs)
+- [Vector and tensor multiplication and outcomes or Rank](https://youtube.com/shorts/beOxycOkQy4)
+- [double dot Product vector and tensor ](https://youtube.com/shorts/QCXS44tf9pE)
+- [Vector Expansion and addition multiplication ](https://youtube.com/shorts/Ny6dYkD8fYo)
+- [Scalar Product Dot Product and Vector Product Cross Product ](https://youtube.com/shorts/6QAVsPIqWUI)
+- [Scalar product or dot product of two vectors](https://youtube.com/shorts/pXK5G3JADc0)
+- [Dyadic Product and Transpose](https://youtube.com/shorts/YAzhMiYwRJc)
+- 
 - Newton’s law of viscosity
 - Newtonian & Non-Newtonian fluids and rheological models
 - Viscosity: effect of temperature, pressure, and composition
@@ -28,6 +43,15 @@ This repository provides organized Jupyter notebooks and simulations for the sub
 ### 🔹 UNIT II: 1D Momentum Transport
 
 - Shell momentum balance and boundary conditions
+- [Derivation of 3D Continuity Equation and Special Cases](https://youtu.be/jWszNf-SNAA)
+- [Derivation of the Navier-Stokes Equations](https://youtu.be/fpp9wgnbg80)
+- [Derivation of Bernoulli's Equation from Euler's Equations ](https://youtu.be/tkYdv5AHieQ)
+- [Analysis of Fully Developed Laminar Flow Down an Inclined Plane Surface](https://youtu.be/f7KXa7AtXrM)
+- [Couette Flow: Velocity Profile, Maximum Velocity, and Location of Maximum Velocity](https://youtu.be/Jz8Vkm_RCbI)
+- [Laminar Flow through an Annulus](https://youtu.be/dWy61V_gaJM)
+- [Flow of fluids through the annular space between two coaxial pipes](https://youtu.be/DoAIIvt_keU)
+- [Laminar Flow in Rotating Cylindrical Annuli ](https://youtu.be/PKdLAZYNoys)
+- 
 - Velocity profiles and momentum flux
 - Applications:
   - Falling film
