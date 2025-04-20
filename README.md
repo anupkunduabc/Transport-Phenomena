@@ -1,53 +1,86 @@
-# 🧪 Python for Chemical Engineering
+# 🔄 Transport Phenomena – Chemical Engineering
 
-This repository provides a set of Python-based Jupyter notebooks for core topics in chemical engineering, including mass balances, thermodynamics, fluid mechanics, heat transfer, and reactor design.
+This repository provides organized Jupyter notebooks and simulations for the subject **Transport Phenomena**, integrating concepts of momentum, heat, and mass transfer for both laminar and turbulent systems.
 
-👨‍🏫 Instructor: Dr. Anup Kundu  
-📺 YouTube: [Chemical Engineering A](https://www.youtube.com/@chemicalengineeringA)
 
----
-
-## 🚀 Launch Notebooks in Google Colab
-
-| Topic                        | Notebook Link |
-|-----------------------------|---------------|
-| Python Basics               | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/python-for-chemical-engineering/blob/main/notebooks/python_basics.ipynb) |
-| Mass Balance                | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/python-for-chemical-engineering/blob/main/notebooks/mass_balance.ipynb) |
-| Thermodynamics              | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/python-for-chemical-engineering/blob/main/notebooks/thermodynamics.ipynb) |
-| Fluid Flow Calculations     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/python-for-chemical-engineering/blob/main/notebooks/fluid_flow.ipynb) |
-| Heat Transfer               | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/python-for-chemical-engineering/blob/main/notebooks/heat_transfer.ipynb) |
-| Reactor Design              | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/python-for-chemical-engineering/blob/main/notebooks/reactor_design.ipynb) |
+📺 [YouTube – Chemical Engineering A](https://www.youtube.com/@chemicalengineeringA)
 
 ---
 
-## 🧰 Requirements
-
-This course uses:
-- `numpy`, `scipy`, `matplotlib`, `sympy`
-- `pandas`, `seaborn`, `plotly`
-- Google Colab (no installation required)
+## 📘 Course Topics
 
 ---
 
-## 📂 Repository Structure
+### 🔹 UNIT I: Transport by Molecular Motion
 
-| Folder         | Description                           |
-|----------------|---------------------------------------|
-| `notebooks/`   | Jupyter notebooks per topic           |
-| `assignments/` | Exercises and homework problems       |
-| `datasets/`    | Input data for simulation problems    |
-| `projects/`    | Mini or term project templates        |
-| `slides/`      | Optional presentation materials       |
+- Vectors and tensors in transport analysis
+- Newton’s law of viscosity
+- Newtonian & Non-Newtonian fluids and rheological models
+- Viscosity: effect of temperature, pressure, and composition
+- Fourier’s law of conduction; thermal conductivity dependence
+- Fick’s law of diffusion; temperature & pressure effects
+- Kinetic theory for viscosity, thermal conductivity, and diffusivity
 
----
-
-## 📥 How to Use
-
-1. Visit this repo: `https://github.com/your-username/python-for-chemical-engineering`
-2. Click on any notebook
-3. Click the Colab badge or **Open in Colab** at the top
+📁 Folder: `notebooks/unit1_molecular_motion/`
 
 ---
 
-📧 Contact: anupkundu@gmail.com  
-🌐 Subscribe: [YouTube - Chemical Engineering A](https://www.youtube.com/@chemicalengineeringA)
+### 🔹 UNIT II: 1D Momentum Transport
+
+- Shell momentum balance and boundary conditions
+- Velocity profiles and momentum flux
+- Applications:
+  - Falling film
+  - Tube flow
+  - Slit flow
+  - Annulus
+  - Adjacent immiscible fluids
+- Equations of change for isothermal fluid flow
+
+📁 Folder: `notebooks/unit2_momentum_transport/`
+
+---
+
+### 🔹 UNIT III: 1D Heat Transport
+
+- Shell energy balance and boundary conditions
+- Temperature profiles and energy flux
+- Applications involving:
+  - Electrical and nuclear heat sources
+  - Viscous heating and chemical heat sources
+  - Extended surfaces (cooling fins)
+- Non-isothermal equations of change
+
+📁 Folder: `notebooks/unit3_heat_transport/`
+
+---
+
+### 🔹 UNIT IV: 1D Mass Transport
+
+- Shell mass balances and boundary conditions
+- Diffusion scenarios:
+  - Through stagnant films
+  - With homogeneous/heterogeneous reactions
+- Mass flux and concentration profiles
+- Coupled heat and mass transfer
+- Continuity and transport equations for mixtures
+
+📁 Folder: `notebooks/unit4_mass_transport/`
+
+---
+
+### 🔹 UNIT V: Turbulent Flow & Boundary Layers
+
+- Phenomenology of turbulence
+- Time-smoothed equations of change
+- Applications in pipe flow
+- Boundary layer theory:
+  - Laminar & turbulent flow
+  - Hydrodynamic, thermal, and concentration boundary layers
+- Macroscopic balances:
+  - Isothermal, non-isothermal, and multicomponent systems
+
+
+
+
+🌐 YouTube Channel: [Chemical Engineering A](https://www.youtube.com/@chemicalengineeringA)
